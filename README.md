@@ -36,17 +36,7 @@ streamlit run app.py
 - Your ear, shoulder and hip must all be visible
 - Use good lighting and a plain background
 
-## 🗺️ Roadmap
-
-- [ ] **Perfect Walk (Phase 4):** analyse a walking video for confidence and form
-- [ ] Richer exercise plans
-- [ ] Mobile app
-- [ ] Wearable posture tag for real-time feedback
-
 ## ⚠️ Disclaimer
 
 This is a student project for educational use. It is not a medical device and does not replace advice from a doctor or physiotherapist.
 
-## 👤 Author
-
-**Swetwaza Fatin**, BTech CSE, Gitanjali Institute of Technical Studies
