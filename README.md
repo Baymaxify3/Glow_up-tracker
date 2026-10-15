@@ -38,5 +38,5 @@ streamlit run app.py
 
 ## ⚠️ Disclaimer
 
-This is a student project for educational use. It is not a medical device and does not replace advice from a doctor or physiotherapist.
+This is a student project for educational use. It is not a medical device and does not replace advice from a doctor or a physiotherapist.
 
