@@ -1,0 +1,7 @@
+mediapipe>=0.10.14,<1.0.0
+opencv-python-headless
+streamlit
+pandas
+numpy
+openpyxl
+
